@@ -94,7 +94,7 @@ banana 고객이 탈퇴할 때, 고객테이블에서 해당 고객에 대한 tu
 
 <h5> 이상 현상이 발생하는 이유</h5>
 함수적 종속 관계를 여러개 포함 하고 있어, 결과적으로 이해적 함수 종속이 생겨 발생한 이슈.<br>
-<img src="https://github.com/NahyeonIN/CS-Study/assets/139699053/0d881c7b-8346-4040-8fd4-699f706feaee"  width="500" height="300">
+<img src="https://github.com/NahyeonIN/CS-Study/assets/139699053/0d881c7b-8346-4040-8fd4-699f706feaee"  width="500" height="300"><br>
 이러한 이행적 함수 종속이 나타나는 이유는 함수 종속 관계가 하나의 테이블에 여러개 존재하기 때문.
 
 <h4> 제 3 정규형 3NF (Third Normal Form) </h4>
